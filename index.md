@@ -108,7 +108,7 @@ From Jun 2009 to Dec 2010 - Porto Alegre, Brazil
 
 ### Freelancer - Web Designer
 
-From Jan 2019 to Jan 2011 - Porto Alegre, Brazil
+From Jan 2009 to Jan 2011 - Porto Alegre, Brazil
 
 <details>
 <summary> ⬅️ Expand for role description</summary>
