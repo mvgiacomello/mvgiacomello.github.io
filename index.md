@@ -41,43 +41,61 @@ From Feb 2018 to Aug 2019 - London, United Kingdom
 
 From Jun 2017 to Feb 2018 - Auckland, New Zealand
 
+<details>
+<summary>Expand for role description</summary>
 - Working with mobile apps (iOS and Android). The applications aid Clinicians in their daily workflow as well as the consumer-facing project that empower patients to self-manage their health.
 - In the technical side, developing automated UI (Appium) and API tests as well as manual verifications to check accessibility, user-experience and design.
+</details>
 
 ### Orion Health - Senior Test Engineer
 
 From Apr 2015 to Jun 2017 - Auckland, New Zealand
 
+<details>
+<summary>Expand for role description</summary>
 - Building and maintaining multiple test automation frameworks for functional testing across different layers of the application, working with open-source tools such as Selenium, Cucumber, jMeter, Rest-Assured and many others.
 - The responsibilities includes not only automating tests for all system changes but also guarantee the continuous integration of all applications under scope. In addition to the previous role, mentoring and guiding other test engineers in the team to become self-sufficient in extending and maintaining the framework.
 - The applications under development were an email system and instant messaging for clinicians and patients to communicate.
+</details>
 
 ### Dell - Intermediate Test Engineer
 
 From Nov 2012 to Mar 2025 - Porto Alegre, Brazil
 
+<details>
+<summary>Expand for role description</summary>
 - Started working as tester of a cross-company project and became Test Lead. The main activities were providing estimates, analyze test strategy and approach, review deliverables and manage test effort.
+</details>
 
 ### HP - Junior Test Engineer
 
 From Apr 2011 to Aug 2012 - Porto Alegre, Brazil
 
+<details>
+<summary>Expand for role description</summary>
 - Worked as software test analyst in a global project to an external company.
 - Writing and running automated and manual tests using HP Quality Center and Selenium as main tools.
+</details>
 
 ### Dell - Performance Test Engineer (Internship)
 
 From Jun 2009 to Dec 2010 - Porto Alegre, Brazil
 
+<details>
+<summary>Expand for role description</summary>
 - Worked as an intern in a team of 12 performance engineers.
 - Analyzing, developing and running performance tests in a critical environment, being most of them Oracle EBS and SAP Business Objects.
 - Tests involved more than 50 global applications and 1000 virtual users. No performance issue was found in go live environment.
+</details>
 
 ### Freelancer - Web Designer
 
 From Jan 2019 to Jan 2011 - Porto Alegre, Brazil
 
+<details>
+<summary>Expand for role description</summary>
 - Worked as a freelance web designer developing projects in partnership with web developers.
+</details>
 
 ---
 
