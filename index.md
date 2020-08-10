@@ -134,6 +134,7 @@ Porto Alegre, Brazil. July 2013.
 
 ## 🛂️ Rights to work
 
-- *Italian* and *Brazilian* citizenships
-- Permanent resident of *New Zealand* and *United Kingdom*
+- *Italian* 🇮🇹️ and *Brazilian* 🇧🇷️ citizenships
+- Permanent resident of *New Zealand* 🇳🇿️ and *United Kingdom* 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 - Currently living in east London
+- In love with the idea of living in 🇨🇦️
