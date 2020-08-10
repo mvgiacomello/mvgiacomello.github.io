@@ -7,7 +7,6 @@
 - [Linkedin](https://www.linkedin.com/in/mvgiacomello/)
 - [Twitter](https://twitter.com/mvgiacomello)
 - [Github](https://github.com/mvgiacomello)
-- [Angel](https://angel.co/u/mvgiacomello)
 - [A bit of social: Instagram](https://www.instagram.com/mvgiacomello/)
 - [Email](mailto:mvgiacomello@gmail.com)
 
