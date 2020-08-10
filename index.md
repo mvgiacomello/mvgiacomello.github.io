@@ -19,6 +19,8 @@
 
 In-progress
 
+---
+
 ## 💾️ Previous Experiences
 
 ### Kobalt Music - Tech Lead Engineer in Test
