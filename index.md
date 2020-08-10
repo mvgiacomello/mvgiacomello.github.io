@@ -1,24 +1,25 @@
 # @mvgiacomello
 
-**Front-end Developer**, Computer Science bachelor and _former Tech Lead Engineer in Test_.
+**Front-end Web Developer**, Computer Science bachelor and _former Tech Lead Engineer in Test_.
 
-## Let's connect
+## 📫️ Let's connect
 
 - [Linkedin](https://www.linkedin.com/in/mvgiacomello/)
 - [Twitter](https://twitter.com/mvgiacomello)
 - [Github](https://github.com/mvgiacomello)
 - [Angel](https://angel.co/u/mvgiacomello)
 - [A bit of social: Instagram](https://www.instagram.com/mvgiacomello/)
+- [Email](mailto:mvgiacomello@gmail.com)
 
 ---
 
-## Personal Projects
+## 🏗️ Personal Projects
 
 ### Project A
 
 In-progress
 
-## Previous Experiences
+## 💾️ Previous Experiences
 
 ### Kobalt Music - Tech Lead Engineer in Test
 
@@ -42,8 +43,10 @@ From Feb 2018 to Aug 2019 - London, United Kingdom
 From Jun 2017 to Feb 2018 - Auckland, New Zealand
 
 <details>
-<summary>Expand for role description</summary>
+<summary> ⬅️ Expand for role description</summary>
+<br/>
 - Working with mobile apps (iOS and Android). The applications aid Clinicians in their daily workflow as well as the consumer-facing project that empower patients to self-manage their health.
+<br/>
 - In the technical side, developing automated UI (Appium) and API tests as well as manual verifications to check accessibility, user-experience and design.
 </details>
 
@@ -52,9 +55,12 @@ From Jun 2017 to Feb 2018 - Auckland, New Zealand
 From Apr 2015 to Jun 2017 - Auckland, New Zealand
 
 <details>
-<summary>Expand for role description</summary>
+<summary> ⬅️ Expand for role description</summary>
+<br/>
 - Building and maintaining multiple test automation frameworks for functional testing across different layers of the application, working with open-source tools such as Selenium, Cucumber, jMeter, Rest-Assured and many others.
+<br/>
 - The responsibilities includes not only automating tests for all system changes but also guarantee the continuous integration of all applications under scope. In addition to the previous role, mentoring and guiding other test engineers in the team to become self-sufficient in extending and maintaining the framework.
+<br/>
 - The applications under development were an email system and instant messaging for clinicians and patients to communicate.
 </details>
 
@@ -63,7 +69,8 @@ From Apr 2015 to Jun 2017 - Auckland, New Zealand
 From Nov 2012 to Mar 2025 - Porto Alegre, Brazil
 
 <details>
-<summary>Expand for role description</summary>
+<summary> ⬅️ Expand for role description</summary>
+<br/>
 - Started working as tester of a cross-company project and became Test Lead. The main activities were providing estimates, analyze test strategy and approach, review deliverables and manage test effort.
 </details>
 
@@ -72,8 +79,10 @@ From Nov 2012 to Mar 2025 - Porto Alegre, Brazil
 From Apr 2011 to Aug 2012 - Porto Alegre, Brazil
 
 <details>
-<summary>Expand for role description</summary>
+<summary> ⬅️ Expand for role description</summary>
+<br/>
 - Worked as software test analyst in a global project to an external company.
+<br/>
 - Writing and running automated and manual tests using HP Quality Center and Selenium as main tools.
 </details>
 
@@ -82,9 +91,12 @@ From Apr 2011 to Aug 2012 - Porto Alegre, Brazil
 From Jun 2009 to Dec 2010 - Porto Alegre, Brazil
 
 <details>
-<summary>Expand for role description</summary>
+<summary> ⬅️ Expand for role description</summary>
+<br/>
 - Worked as an intern in a team of 12 performance engineers.
+<br/>
 - Analyzing, developing and running performance tests in a critical environment, being most of them Oracle EBS and SAP Business Objects.
+<br/>
 - Tests involved more than 50 global applications and 1000 virtual users. No performance issue was found in go live environment.
 </details>
 
@@ -93,13 +105,14 @@ From Jun 2009 to Dec 2010 - Porto Alegre, Brazil
 From Jan 2019 to Jan 2011 - Porto Alegre, Brazil
 
 <details>
-<summary>Expand for role description</summary>
+<summary> ⬅️ Expand for role description</summary>
+<br/>
 - Worked as a freelance web designer developing projects in partnership with web developers.
 </details>
 
 ---
 
-## Education
+## 🔬️ Education
 
 ### Computer Science - Pontifical Catholic University of Rio Grande do Sul
 
@@ -111,14 +124,8 @@ Porto Alegre, Brazil. July 2013.
 
 ---
 
-## Rights to work
+## 🛂️ Rights to work
 
 - *Italian* and *Brazilian* citizenships
 - Permanent resident of *New Zealand* and *United Kingdom*
 - Currently living in east London
-
-## Contact
-
-Feel free to contact me at [mvgiacomello@gmail.com](mailto:mvgiacomello@gmail.com)
-
-Please, go straight to the point.
