@@ -112,6 +112,7 @@ From Jan 2019 to Jan 2011 - Porto Alegre, Brazil
 - Worked as a freelance web designer developing projects in partnership with web developers.
 </details>
 
+
 ---
 
 ## 🔬️ Education
