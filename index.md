@@ -14,7 +14,10 @@
 
 ## 🏗️ Personal Projects
 
-Coming soon.
+- [A docker image to build and package Tizen apps with](https://hub.docker.com/repository/docker/mvgiacomello/tizen-sdk-node)
+- [All my leetcode solutions with tests](https://github.com/mvgiacomello/leetcode-solutions)
+- [Weekend Project: Landing my first Web Dev job at Napster](https://github.com/mvgiacomello/reactjs-product-catalog)
+- [Gist: Open Steam when bluetooth controller connects](https://github.com/mvgiacomello/bluetooth-to-steam-linux)
 
 ---
 
