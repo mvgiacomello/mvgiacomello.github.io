@@ -18,7 +18,15 @@ Coming soon.
 
 ---
 
-## 💾️ Previous Experiences
+## 💾️ Experiences
+
+### Napster - TV & Web Developer
+
+From Feb 2021 and still jamming - London, United Kingdom
+
+- Building TV web apps using ReactJS for Xbox, Playstation, WebOS, Tizen and FireOS.
+- Built CI/CD on Github Actions using Docker, bash and Google Cloud.
+- Structured test automation in ways to speed development cycle using cypress.
 
 ### Kobalt Music - Tech Lead Engineer in Test
 
