@@ -1,6 +1,6 @@
 # @mvgiacomello
 
-**Software Engineer**, Engineering Manager, Computer Science bachelor and _former Tech Lead Engineer in Test_.
+**Software Engineer**, Engineering Manager and Computer Science bachelor.
 
 ## 📫️ Let's connect
 
